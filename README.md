@@ -1,6 +1,7 @@
 # Cursos
-Repositório para divulgação de cursos de programação variados em todas as plataformas. Tentarei ao máximo listar cursos gratuitos, mas terão
-os pagos também, caso deseje realmente investir naquela linguagem.
+Repositório para divulgação de cursos de programação variados em todas as plataformas. Tentarei ao máximo listar cursos gratuitos, mas terão os pagos também, caso deseje realmente investir naquela linguagem.
+
+E se, em algum momento, você viu que um curso não está mais gratuito, por favor, informe também para poder retirar ele. Manter a lista viva é tão importante quanto apenas adicionar mais e mais cursos.
 
 ### Para estudantes
 
