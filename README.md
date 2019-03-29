@@ -18,9 +18,9 @@ algumas tags para poder colocar como título no link, será melhor ainda para o 
 
 > Link + cupom - Nome
 
-Se o seu curso estiver hospedado em plataforma própria, seguir o mesmo molde de estudantes 
+Se o seu curso estiver hospedado em plataforma própria, seguir o mesmo molde de estudantes mais o valor
 
-> Link - Nome - Plataforma
+> Link - Nome - Plataforma - Valor
 
 
 # Aviso aos navegantes
