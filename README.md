@@ -1,7 +1,8 @@
 # Cursos
-Repositório para divulgação de cursos de programação variados em todas as plataformas. Tentarei ao máximo listar cursos gratuitos, mas terão os pagos também, caso deseje realmente investir naquela linguagem.
+Repositório para divulgação de cursos de programação variados em todas as plataformas. Tentarei ao máximo listar cursos gratuitos, mas terão os pagos também, caso deseje realmente investir naquela linguagem / framework / autor.
 
 E se, em algum momento, você viu que um curso não está mais gratuito, por favor, informe também para poder retirar ele. Manter a lista viva é tão importante quanto apenas adicionar mais e mais cursos.
+
 
 ### Para estudantes
 
@@ -16,7 +17,7 @@ peço para que inclua também um cupom para o menor valor possível para a plata
 desenvolvimento pessoal, para diminuir ainda mais a necessidade de pirataria e incentivar a aquisição do seu curso. Se possível, adicionar
 algumas tags para poder colocar como título no link, será melhor ainda para o aluno. 
 
-> Link + cupom - Nome
+> Link + cupom - Nome + Tags
 
 Se o seu curso estiver hospedado em plataforma própria, seguir o mesmo molde de estudantes mais o valor
 
@@ -25,3 +26,6 @@ Se o seu curso estiver hospedado em plataforma própria, seguir o mesmo molde de
 
 # Aviso aos navegantes
 Este repositório NÃO será para pedir curso de forma pirateada ou ilegal. Se ainda desejar fazer isto, peço que não volte aqui mais. 
+
+### Agradecimentos
+100% do aprendizado de Markdown necessário para a construção desta repo foi aprendido no curso [Aprenda Markdown](https://www.udemy.com/aprenda-markdown).
